@@ -145,6 +145,3 @@ $env:ABRS_MYSQL_DATABASE="DB"</code></pre>
 
 <hr />
 
-<div align="center">
-  <p><small>Copyright &copy; 2026 ABRS Framework. Developed for Business Intelligence and Reporting.</small></p>
-</div>
