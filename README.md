@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>ABRS: BUSINESS REPORTING SYSTEM</h1>
+  <h1>BUSINESS REPORTING SYSTEM</h1>
   <p><strong>Operational Tracking, Analytics, and Maintenance Framework</strong></p>
   
   <hr />
